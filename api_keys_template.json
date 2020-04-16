@@ -1,0 +1,20 @@
+{
+  "cenet.okta.com":"api key here",
+  "cenet-arm.okta.com":"api key here",
+  "cenet-bat.okta.com":"api key here",
+  "cenet-cg.okta.com":"api key here",
+  "cenet-cns.okta.com":"api key here",
+  "cenet-dbb.okta.com":"api key here",
+  "cenet-hq.okta.com":"api key here",
+  "cenet-lis.okta.com":"api key here",
+  "cenet-mn.okta.com":"api key here",
+  "cenet-par.okta.com":"api key here",
+  "cenet-rok.okta.com":"api key here",
+  "cenet-syd.okta.com":"api key here",
+  "cenet-tas.okta.com":"api key here",
+  "cenet-too.okta.com":"api key here",
+  "cenet-tsv.okta.com":"api key here",
+  "cenet-wag.okta.com":"api key here",
+  "cenet-wf.okta.com":"api key here",
+  "cenet-wol.okta.com":"api key here"
+}
